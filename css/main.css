@@ -1,0 +1,25 @@
+.mynav  {
+
+background-color: red ; 
+
+}
+
+.navbar-default{
+
+background-color:  #ffccff ; 
+padding: 2px ; 
+}
+
+.jumbotron {
+background-image: url(file:///C:/Users/Mdaoor/Documents/codeGirlWebSite/images/fruit-and-veg.jpg);
+background-size: cover;
+background-attachment: fixed;
+min-height: 600px ; 
+}
+
+#mission {
+background: rgba(32, 35, 41, 0.9);
+color: #ddd;
+}
+
+
